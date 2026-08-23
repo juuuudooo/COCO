@@ -13,3 +13,8 @@ Guardar y compartir los recuerdos más tiernos de Coco, esos pequeños momentos 
 
 Breve descripción de los contenidos:
 Fotos de Coco en distintas posiciones y situaciones del día a día, cada una acompañada de una breve descripción de qué estaba haciendo, además de datos generales sobre los salchichas y consejos de cuidado relacionados.
+## Decisiones de diseño
+
+- Colores: paleta cálida tipo tierra (marrones y beige) porque representa el pelaje de Coco y transmite calidez y ternura.
+- Tipografías: Georgia (serif) para los títulos, que le da un aire afectuoso; Arial (sans-serif) para el texto, por su simplicidad y buena lectura.
+- Estas elecciones buscan reflejar el tono tierno y hogareño de la galería.
