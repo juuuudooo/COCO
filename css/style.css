@@ -1,0 +1,75 @@
+/* Colores generales del sitio */
+body {
+  background-color: #F5EFE6;
+  color: #4E342E;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Encabezado */
+header {
+  background-color: #6F4E37;
+  color: #FFFFFF;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-family: Georgia, serif;
+  font-size: 36px;
+  margin: 0;
+}
+
+/* Pie de página */
+footer {
+  background-color: #6F4E37;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+footer a {
+  color: #F5EFE6;
+}
+
+/* Contenido principal */
+main {
+  padding: 20px 40px;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  color: #8B5E3C;
+}
+
+/* Imágenes */
+img {
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+/* Enlaces */
+a {
+  color: #A9744F;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7A4B2A;
+  text-decoration: underline;
+}
+
+/* Tarjetas de cada elemento de la galería */
+.tarjeta {
+  background-color: #FFFFFF;
+  border: 1px solid #D8C3A5;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+  display: inline-block;
+  width: 220px;
+  text-align: center;
+  vertical-align: top;
+}
