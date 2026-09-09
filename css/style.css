@@ -150,3 +150,29 @@ footer a {
     max-width: 90%;
   }
 }
+/* Sección de introducción: texto e imagen en fila */
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.intro-texto {
+  flex: 1 1 18rem;
+}
+
+.intro-imagen {
+  flex: 1 1 14rem;
+  display: flex;
+  justify-content: center;
+}
+
+.imagen-principal {
+  width: 100%;
+  max-width: 18rem;
+  height: 18rem;
+  object-fit: cover;
+  border-radius: 12px;
+}
