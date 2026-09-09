@@ -58,8 +58,9 @@ nav a:hover {
 
 /* Contenido principal */
 main {
-  padding: 1.5rem 5%;
-  max-width: 64rem;
+  padding: 1.5rem 3%;
+  width: 92%;
+  max-width: 80rem;
   margin: 0 auto;
   box-sizing: border-box;
 }
